@@ -4,7 +4,7 @@
 안녕하세요. 성일정보고등학교에 재학중인 홍정현입니다.
 알고리즘을 학습하며 문제 해결 능력을 키워가고 있습니다.
 
-Portfolio(https://expensive-triangle-fbb.notion.site/Portfolio-273937e9b11580ca88c1e6fe9faab9da?source=copy_link)
+[Portfolio](https://expensive-triangle-fbb.notion.site/Portfolio-273937e9b11580ca88c1e6fe9faab9da?source=copy_link)
 
 <h2>Tech Stack</h2>
 
