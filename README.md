@@ -1,19 +1,19 @@
-<div align= "center">
+<div align= "left">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=96c11f&height=120&text=안녕하세요&animation=&fontColor=000000&fontSize=50" />
     </div>
-    <div align= "center"> 
+    <div align= "left"> 
     <h2>Introduce</h2>
     안녕하세요. 성일정보고등학교에 재학중인 홍정현입니다.
     알고리즘을 학습하며 문제 해결 능력을 키워가고 있습니다.
     </div> 
-     <div align= "center">
+     <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Portfolio</h2>
          <a href=https://expensive-triangle-fbb.notion.site/portfolio-273937e9b11580ca88c1e6fe9faab9da> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://expensive-triangle-fbb.notion.site/portfolio-273937e9b11580ca88c1e6fe9faab9da"> </a>
          <br> 
-    <div align= "center">
+    <div align= "left">
           </div>  <br> 
-    <div align= "center">  </div> 
-    <div align= "center">
+    <div align= "left">  </div> 
+    <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
