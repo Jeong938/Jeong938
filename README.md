@@ -2,7 +2,9 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=96c11f&height=120&text=안녕하세요&animation=&fontColor=000000&fontSize=50" />
     </div>
      <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Portfolio</h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Portfolio</h2>
+         <a href=https://expensive-triangle-fbb.notion.site/portfolio-273937e9b11580ca88c1e6fe9faab9da> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://expensive-triangle-fbb.notion.site/portfolio-273937e9b11580ca88c1e6fe9faab9da"> </a>
+         <br> 
     <div align= "center">
           </div>  <br> 
     <div align= "center">  </div> 
@@ -28,7 +30,7 @@
 
  
 <h2>stat</h2>
- <a href=https://expensive-triangle-fbb.notion.site/portfolio-273937e9b11580ca88c1e6fe9faab9da> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://expensive-triangle-fbb.notion.site/portfolio-273937e9b11580ca88c1e6fe9faab9da"> </a>
+ 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeong938)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Baekjoon</h2>
